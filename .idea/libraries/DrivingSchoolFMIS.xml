@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DrivingSchoolFMIS">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DrivingSchoolFMIS.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
